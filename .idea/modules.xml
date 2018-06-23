@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloARouter.iml" filepath="$PROJECT_DIR$/HelloARouter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basemodule/basemodule.iml" filepath="$PROJECT_DIR$/basemodule/basemodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cardmodule/cardmodule.iml" filepath="$PROJECT_DIR$/cardmodule/cardmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geohomemap/geohomemap.iml" filepath="$PROJECT_DIR$/geohomemap/geohomemap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarymodule/librarymodule.iml" filepath="$PROJECT_DIR$/librarymodule/librarymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mainmodule/mainmodule.iml" filepath="$PROJECT_DIR$/mainmodule/mainmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mapmodule/mapmodule.iml" filepath="$PROJECT_DIR$/mapmodule/mapmodule.iml" />
+      <module fileurl="file://E:\Android\HelloARouter\usermodule\module1.iml" filepath="E:\Android\HelloARouter\usermodule\module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module2/module2.iml" filepath="$PROJECT_DIR$/module2/module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulelib1/modulelib1.iml" filepath="$PROJECT_DIR$/modulelib1/modulelib1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modulelib2/modulelib2.iml" filepath="$PROJECT_DIR$/modulelib2/modulelib2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/routermodule/routermodule.iml" filepath="$PROJECT_DIR$/routermodule/routermodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/usermodule/usermodule.iml" filepath="$PROJECT_DIR$/usermodule/usermodule.iml" />
+    </modules>
+  </component>
+</project>

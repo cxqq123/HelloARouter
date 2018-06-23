@@ -1,0 +1,1 @@
+include ':app', ':usermodule', ':module2', ':modulelib1', ':modulelib2', ':mainmodule', ':cardmodule', ':mapmodule', ':routermodule', ':basemodule', ':librarymodule', ':geohomemap'

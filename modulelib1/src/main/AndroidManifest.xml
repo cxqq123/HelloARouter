@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cx.modulelib1">
+
+    <application>
+        <activity android:name=".Modulelib1_MainActivity"></activity>
+    </application>
+
+</manifest>

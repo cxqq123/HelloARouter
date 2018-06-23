@@ -1,0 +1,36 @@
+ext{
+
+    android = [
+            compileSdkVersion: 26,
+            minSdkVersion    : 16,
+            targetSdkVersion : 26,
+            buildToolsVersion: "26.0.2",
+            versionCode      : 1,
+            versionName      : "1.6.6"
+
+    ]
+
+    appId = [
+            "app" : "com.cx.app",
+            "card" : "com.cx.card",
+            "map" : "com.cx.map",
+            "main" : "com.cx.main"
+    ]
+
+    url = [
+            "debug" : "debugUrl" ,
+            "release" : "releaseUrl"
+    ]
+
+    supportLibrary = "26.1.0"
+
+    dependencies = [
+            "cardview"     : "com.android.support:cardview-v7:${supportLibrary}",
+            "constraint"   : "com.android.support.constraint:constraint-layout:1.0.2",
+            "recyclerview" : "com.android.support:recyclerview-v7:${supportLibrary}",
+            "suppoutDesign": "com.android.support:design:${supportLibrary}",
+            "arouter-api" : 'com.alibaba:arouter-api:1.2.0',
+            "arouter-compiler" : 'com.alibaba:arouter-compiler:1.1.0'
+    ]
+
+}
